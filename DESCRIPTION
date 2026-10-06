@@ -1,0 +1,10 @@
+Package: StepsFinancialResponsibility
+Type: Package
+Title: Steps Steps for Financial Responsibility
+Version: 0.1.0
+Authors@R: Step Grootens
+Maintainer: Step Grootens <step@grootens.nl>
+Description: Provides functions that give responsible financia advice 
+    based on the percentages and Steps opinions.  
+Encoding: UTF-8
+LazyData: true
